@@ -2,7 +2,7 @@
 ## Metodología
 
 ### Paso 1: Definición del problema de analítica
-- [] asdasdasd
+- asdasdasd
 ### Paso 2: Definición del problema de analítica
 
 
