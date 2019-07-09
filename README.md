@@ -24,10 +24,15 @@
 ### Paso 4: Selección de la metodología
 - [ ] Identificar los enfoques de resolución de problemas disponibles (métodos)
 - [ ] Seleccionar herramientas de software
-- [ ] Enfoques de prueba (métodos) *
-- [ ] Seleccionar enfoques (métodos) *
+- [ ] Enfoques de prueba (métodos)
+- [ ] Seleccionar enfoques (métodos)
 ### Paso 5: Construcción del modelo
+- [ ] Identificar y construir estructuras de modelo efectivas para ayudar a resolver el problema de negocio
+- [ ] Ejecutar y evaluar los modelos
+- [ ] Calibrar modelos y datos
+- [ ] Integrar los modelos
 ### Paso 6: Implementación del Modelo
+
 ### Paso 7: Modelo de gestión del ciclo de vida
 
 
