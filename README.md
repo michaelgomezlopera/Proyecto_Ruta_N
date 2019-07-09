@@ -32,7 +32,20 @@
 - [ ] Calibrar modelos y datos
 - [ ] Integrar los modelos
 ### Paso 6: Implementación del Modelo
-
+Realizar la validación empresarial del modelo
+- [ ] Entregar el informe con los resultados; o
+- [ ] Crear modelo, usabilidad y requisitos del sistema para la producción
+- [ ] Entregar el modelo / sistema de producción
+- [ ] Soporte de despliegue
+a. Conozca el enfoque de implementación CRISP-DM estándar de la industria
+b. Conozca otras consideraciones para la implementación de modelos en tiempo real
+c. Comprenda las consideraciones necesarias para planificar la implementación de análisis en su organización
 ### Paso 7: Modelo de gestión del ciclo de vida
+- [ ] Estructura inicial del documento.
+- [ ] Calidad del modelo de pista.
+- [ ] Recalibrar y mantener el modelo
+- [ ] Apoyar las actividades de formación.
+- [ ] Evaluar el beneficio empresarial del modelo a lo largo del tiempo.
+
 
 
