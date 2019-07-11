@@ -1,10 +1,8 @@
 # Proyecto_Ruta_N
 
 
-### Integrantes Secretaría de Movilidad:
-### Sara Henao Pérez
-### Paolo Camacho
-### Michael Gómez Lopera
+## Integrantes Secretaría de Movilidad:
+## Sara Henao Pérez - Paolo Camacho - Michael Gómez Lopera
 
 
 ## Metodología
