@@ -1,2 +1,27 @@
 ###DEFINICIÓN DEL PROBLEMA DE NEGOCIO
 
+- [ ] Declaración del problema
+
+El problema son las muertes y heridos graves en incidentes viales, en tramo de la autopista norte, donde se posee información de flujos, velocidades y accidentalidad
+
+- [ ] Determinación de los objetivos comerciales
+
+Reducir las victimas mortales y lesionados graves y los gastos que esto acarrea
+
+- [ ] Identificar partes interesadas
+
+Los usuarios del sistema vial y els estado en cabeza de la secretaria de movilidad
+
+- [ ] Determine si el problema es susceptible de solución analítica
+
+Se poseen datos con los cuales se puede hacer mineria y un modelo que correlacione las variables que se miden
+
+- [ ] Definir un conjunto inicial de beneficios empresariales
+
+Reducción de victimas.
+Mejoramiento de tiempos de viaje.
+Redcucción de costos economicos.
+Reduccion de tiempos de atencion
+Reduccion de indices de mortalidad y accidentalidad y peligrosidad
+
+- [ ] Producción de un plan de proyecto.
