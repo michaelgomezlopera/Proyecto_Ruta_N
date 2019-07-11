@@ -2,7 +2,7 @@
 
 
 ## Integrantes Secretaría de Movilidad:
-## Sara Henao Pérez - Paolo Camacho - Michael Gómez Lopera
+#### Sara Henao Pérez - Paolo Camacho - Michael Gómez Lopera
 
 
 ## Metodología
