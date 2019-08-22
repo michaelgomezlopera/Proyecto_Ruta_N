@@ -8,22 +8,23 @@ De esta vía se cuenta con información de flujos vehiculares, velocidades e inc
 
 - [ ] Determinación de los objetivos del proyecto
 
-Reducir las victimas mortales y lesionados graves y los gastos que esto acarrea
+Mediante el análisis de la información con que cuenta la Secretaría de Movilidad, determinar la incidencia de velocidad
+en incidentes viales para identificar sectores críticos y proponer acciones encaminadas a reducir las victimas fatales.
 
 - [ ] Identificar partes interesadas
 
-Los usuarios del sistema vial y els estado en cabeza de la secretaria de movilidad
+Los usuarios del sistema vial y el estado en cabeza de la Secretaría de Movilidad
 
 - [ ] Determine si el problema es susceptible de solución analítica
 
-Se poseen datos con los cuales se puede hacer mineria y un modelo que correlacione las variables que se miden
+Se poseen datos históricos de incidentes porvenientes del IPAT y de velocidad vehicular de las cámaras CCTV instaladas en el corredor,
+con los cuales se busca definir un modelo que correlacione las variables de interes y permita predecir sitios críticos.
 
 - [ ] Definir un conjunto inicial de beneficios empresariales
 
 Reducción de victimas.
 Mejoramiento de tiempos de viaje.
-Redcucción de costos economicos.
-Reduccion de tiempos de atencion
-Reduccion de indices de mortalidad y accidentalidad y peligrosidad
+Reducción de costos economicos.
+Reduccion de tiempos de atencion.
+Optimización del uso de recursos de agentes de tránsito.
 
-- [ ] Producción de un plan de proyecto.
